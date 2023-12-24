@@ -1,0 +1,394 @@
+{
+    "cities": [
+        {
+            "name": "The Sandbox",
+            "starcount": 0
+        },
+        {
+            "name": "Tutorial",
+            "starcount": 0
+        },
+        {
+            "name": "The Begining",
+            "starcount": 5
+        },
+        {
+            "name": "The Party",
+            "starcount": 10
+        },
+        {
+            "name": "Small laboratory",
+            "starcount": 21
+        },
+	{
+            "name": "Ensi tutorial",
+            "starcount": 0
+        },
+	{
+            "name": "Ensi levels",
+            "starcount": 0
+        }
+    ],
+    "levels": [
+        {
+            "name": "small",
+            "description": "",
+            "levelCode": "sFFFF-",
+            "sandbox": true,
+            "city": 0,
+            "stars": 0
+        },
+        {
+            "name": "medium",
+            "description": "",
+            "levelCode": "mFFFFFFFFF-",
+            "sandbox": true,
+            "city": 0,
+            "stars": 0
+        },
+        {
+            "name": "large",
+            "description": "",
+            "levelCode": "lFFFFFFFFFFFFFFFF-",
+            "sandbox": true,
+            "city": 0,
+            "stars": 0
+        },
+        {
+            "name": "Introduction",
+            "description": "You can move all element on white tile by dragging them !\nMoreover you can rotate all bloc by clicking on them (even one on black tile).\nturn on all light with laser to win !",
+            "levelCode": "s7770036B6J5O6P6Q6R-3",
+            "sandbox": false,
+            "city": 1,
+            "stars": 1
+        },
+        {
+            "name": "The lamp",
+            "description": "Lamp can be turn on by all kind of laser !",
+            "levelCode": "s7770031B6J5O5P6Q6R-33",
+            "sandbox": false,
+            "city": 1,
+            "stars": 1
+        },
+        {
+            "name": "Level 1",
+            "description": "",
+            "levelCode": "s715003696A6B6H5J5O6P2Q6R-33",
+            "sandbox": false,
+            "city": 1,
+            "stars": 1
+        },
+        {
+            "name": "Level 2",
+            "description": "",
+            "levelCode": "s27E452630B5G6O1P-33",
+            "sandbox": false,
+            "city": 1,
+            "stars": 1
+        },
+        {
+            "name": "Level 3",
+            "description": "Splitter duplicate the laser to all dirrections !",
+            "levelCode": "sB7FA134G5J5P-33",
+            "sandbox": false,
+            "city": 1,
+            "stars": 1
+        },
+        {
+            "name": "Led party",
+            "description": "Led can only be turn on by a laser of his color !",
+            "levelCode": "s7730031BAO8P-33",
+            "sandbox": false,
+            "city": 2,
+            "stars": 1
+        },
+        {
+            "name": "Let's add !",
+            "description": "adder add all color from input side (with the small color bar).\nAnd output it in the output side (the gray part)",
+            "levelCode": "s171603187ACQ-3",
+            "sandbox": false,
+            "city": 2,
+            "stars": 1
+        },
+        {
+            "name": "Level 4",
+            "description": "",
+            "levelCode": "s07708003C81B-47",
+            "sandbox": false,
+            "city": 2,
+            "stars": 1
+        },
+        {
+            "name": "Level 5",
+            "description": "",
+            "levelCode": "s8FF88003C81BAG-4743",
+            "sandbox": false,
+            "city": 2,
+            "stars": 1
+        },
+        {
+            "name": "Level 6",
+            "description": "",
+            "levelCode": "mFD7FD5F10052D1L7RAe8f9gDh-33434",
+            "sandbox": false,
+            "city": 2,
+            "stars": 1
+        },
+        {
+            "name": "Ballon",
+            "description": "White baloon can be exploded by all lasers !\nDestroy all of them !",
+            "levelCode": "s777E03KOKPKQ-3",
+            "sandbox": false,
+            "city": 3,
+            "stars": 1
+        },
+        {
+            "name": "Level 7",
+            "description": "",
+            "levelCode": "s7778036BKJKOKPKQ-33",
+            "sandbox": false,
+            "city": 3,
+            "stars": 2
+        },
+        {
+            "name": "Level 8",
+            "description": "",
+            "levelCode": "mC41DD5110800568696A6C6DKK6L6P6R6S6TKW6X6b6e6f6g6h8i6j-333334",
+            "sandbox": false,
+            "city": 3,
+            "stars": 2
+        },
+        {
+            "name": "Coloured Party",
+            "description": "Coloured baloon need to be exploded with the correct coloured laser",
+            "levelCode": "s7F7C031BMOLQ-3",
+            "sandbox": false,
+            "city": 3,
+            "stars": 1
+        },
+        {
+            "name": "Level 9",
+            "description": "",
+            "levelCode": "sF5D803696A6BLJ8P-343",
+            "sandbox": false,
+            "city": 3,
+            "stars": 2
+        },
+        {
+            "name": "Level 10",
+            "description": "an unifier take any coloured laser, and always output the same colours !",
+            "levelCode": "mAE3EEFEE4107224DG8LNT0WQX7YEaMfLj-4F3",
+            "sandbox": false,
+            "city": 3,
+            "stars": 3
+        },
+        {
+            "name": "all from red",
+            "description": "",
+            "levelCode": "m0455555103005696A6B6C6D4GAL6P6Q6S6T4WDb6f6g6h6i6j-G4H7",
+            "sandbox": false,
+            "city": 4,
+            "stars": 2
+        },
+        {
+            "name": "blue need help",
+            "description": "",
+            "levelCode": "mF78168D2005696A6B6C6DLHLILJALLPLQLRAT6X6Y6Z6a6b1j-433",
+            "sandbox": false,
+            "city": 4,
+            "stars": 1
+        },
+        {
+            "name": "this is france",
+            "description": "",
+            "levelCode": "mFFFFFF000152D0LATEb8j-343333734",
+            "sandbox": false,
+            "city": 4,
+            "stars": 3
+        },
+        {
+            "name": "lockdown",
+            "description": "",
+            "levelCode": "s33F8130BLGLHEJ2OLP-7333",
+            "sandbox": false,
+            "city": 4,
+            "stars": 2
+        },
+        {
+            "name": "red bow (rainbow)",
+            "description": "",
+            "levelCode": "mEBFFFF0000061L5MDNLOTPbQj-3HG374",
+            "sandbox": false,
+            "city": 4,
+            "stars": 2
+        },
+        {
+            "name": "red make white",
+            "description": "",
+            "levelCode": "sEEE601ER-34H3G33377",
+            "sandbox": false,
+            "city": 4,
+            "stars": 2
+        },
+        {
+            "name": "the and gate",
+            "description": "you'll learn what is an and gate",
+            "levelCode": "m1495EE1281568696A6C6DEGIJ6K6L6O6P6Q6S6T6W6X6Y6a6b1e-33",
+            "sandbox": false,
+            "city": 5,
+            "stars": 1
+        },
+        {
+            "name": "the or gate",
+            "description": "to be or not to be",
+            "levelCode": "m00000000060616568696B6D6G6H6J2K6LEOJQ6R6S6T6W6X6Z6a6b3g2i6j-",
+            "sandbox": false,
+            "city": 5,
+            "stars": 1
+        },
+        {
+            "name": "color splitter",
+            "description": "split complementary color to primary",
+            "levelCode": "m000000000S124R97CEGRKEORSAWVXAZVa9b8f8i-",
+            "sandbox": false,
+            "city": 5,
+            "stars": 1
+        },
+        {
+            "name": "benji level 1",
+            "description": "",
+            "levelCode": "l9CE7FFEFF7A75D4B81A3N507288E6FAG6L9U8V1W9eAk8t9vAy9z-33433344444F34A4",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 2",
+            "description": "",
+            "levelCode": "s77F32JDO0P1R-6I66646763E",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 3",
+            "description": "",
+            "levelCode": "m9CFBB77FE0338BG3I3LDSCWAe3h-74H4HFG74743",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 4",
+            "description": "",
+            "levelCode": "mF74BDB6F70469CH6I6P6S6Z1f6gCj-37443343",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 5",
+            "description": "",
+            "levelCode": "l507050606070705DM3M4083A1F6OEP6QER6SET6ULV2W4XLY4ZLa4bLc6eEf6gEh6iEj6kLlEm6nEo6pEq6rEs4uMv4wMx4yMz4+-3334433",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 6",
+            "description": "",
+            "levelCode": "lF7F8F87C3E1F1FEF378D6E6L0M8R6S3U3X8Y6ZAa1f6gAh6nAo3u-33343334333",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 7",
+            "description": "",
+            "levelCode": "l0000000000000000A03102333495363738393A3B3C3D3E3F3G3H3I7J3K3L3M3N3O3P3Q3R3S3T7U3V3W3X3Y7Z3a3b3c3d3e3f3g3h3i3j3k2l1m3n3o3p3q7r3s3t3u3v8w3x3y3z3+3/-",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 8",
+            "description": "",
+            "levelCode": "l0000000000000000C031023334B5363738393A3B3C3D3E3F3G3H3I7J3K4L3M3N3O4P3Q3R3S3T7U3V3W3X3Y7Z3a4b3c3d3e3f3g3h3i3j3k2l1m3n3o3p3q7r3s3t3u3vDw3x3y3z3+3/-",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 9",
+            "description": "",
+            "levelCode": "l01EFFADF7E59BA6E606107686B6D5G6M6OIT5V6Y5a3c6d5e6j6m6o6r2s1u-KK3KKKKKKKKKKKKKK3KKKKKKKKKKKK3KKK3KK4K",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 10",
+            "description": "",
+            "levelCode": "lFFFFFFFFFFFFFFFF-6666266666B74F3663G4466A68378666669496666666666666666666666666",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 11",
+            "description": "",
+            "levelCode": "s0FFF00182GEO-33433",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 12",
+            "description": "",
+            "levelCode": "l00A2F6A2F7A2F7A22041434547680G4H4J4L4N6O1W4X4Z4b4d6e0m8n4p4r4t6u6wAx6y8z6+9/-666666666666666",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 13",
+            "description": "",
+            "levelCode": "lD9B1FBDFFBDF819F16E88B0D7E2F7H4MCNBe4f7k0m7n2oAq4s1vE+-4FFFHHGFHGG",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 14",
+            "description": "",
+            "levelCode": "l7FFFBDBDBDBD0C25N607ME6I6J6K6L6M6NEOLU2VMc6g6h6i6j6k6l1/-337",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 15",
+            "description": "",
+            "levelCode": "lF7FBFDFE7FBFD7FECECLCSCZ1dCgCnCu0+-333443473",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 16",
+            "description": "",
+            "levelCode": "lC34E58585F7D73738168696A6B6C6P6R6S6T6U6V6X6Y6h6j6m6o6p6s0t6u6+6/-3663663636333633",
+            "sandbox": false,
+            "city":6,
+            "stars": 1
+        },
+        {
+            "name": "benji level 17",
+            "description": "",
+            "levelCode": "l3BE7DDF767E3F71D0114956AAF2G6N6O6S1V6gAl2m8r6v9x0y6z8+-33333333333",
+            "sandbox": false,
+            "city": 6,
+            "stars": 1
+        }
+    ]
+}

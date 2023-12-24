@@ -1,0 +1,88 @@
+{
+    "cities":[{
+                "name":"Tutorial City",
+                "starcount":0
+            },
+            {
+                "name":"Test City",
+                "starcount":1
+            },
+            {
+                "name":"SandBox City",
+                "starcount":5
+            }],
+    "levels":[
+        {
+            "name":"Niveau test 1",
+            "description":"ceci est une description de test",
+            "levelCode":"sB7FA134G5J5P-33",
+            "sandbox":false,
+            "city":1,
+            "stars":1
+        },
+        {
+            "name":"Niveau test 2",
+            "description":"never gonna give you up\nnever gonna let you down\nnever gonna run around and desert you\nnever gonna make you cry\nnever gonna say goodbye\nnever gonna tell a lie and hurt you",
+            "levelCode":"mEFDDFED9F0015EA6C7J7P2i-33333",
+            "sandbox":false,
+            "city":1,
+            "stars":2
+        },
+        {
+            "name":"Win 1",
+            "description":"gimme gimme gimme\na man after midnight\nwould you know my name\nif i saw you in heaven",
+            "levelCode":"sFFE1520B6J8R-34",
+            "sandbox":false,
+            "city":0,
+            "stars":2
+        },
+        {
+            "name":"Test Ballons",
+            "description":"balance ton quoi\nmeme si tu parle mal des filles\nje sais qu'au fond t'as compris",
+            "levelCode":"lFFFFFDFF0F0FFFFF24650C6D1K6L6S6T7g-OMPNLQ333",
+            "sandbox":false,
+            "city":1,
+            "stars":4
+        },
+        {
+            "name":"Niveau hard 1",
+            "description":"i'm gonna take my horse to the old town road\ni'm gonna ride 'til i can't no more",
+            "levelCode":"l000073F2F1F3F3848007A81F9G2NCO7QDW7Z7dBe7i7lEm-444443443",
+            "sandbox":false,
+            "city":1,
+            "stars":8
+        },
+        {
+            "name":"Sandbox sm",
+            "description":"",
+            "levelCode":"sFFFF-",
+            "sandbox":true,
+            "city":2,
+            "stars":0
+        },
+        {
+            "name":"Sandbox me",
+            "description":"",
+            "levelCode":"mFFFFFFFFF-",
+            "sandbox":true,
+            "city":2,
+            "stars":0
+        },
+        {
+            "name":"Sandbox lg",
+            "description":"",
+            "levelCode":"lFFFFFFFFFFFFFFFF-",
+            "sandbox":true,
+            "city":2,
+            "stars":0
+        },
+        {
+            "name":"test 3",
+            "description":"i'm blue da ba dee da ba daa\ni'm blue da ba dee da ba daa\ni'm blue da ba dee da ba daa\ni'm blue da ba dee da ba daa",
+            "levelCode":"mFFBEFFFEFA20X1a-7",
+            "sandbox":false,
+            "city":1,
+            "stars":5
+        }
+    ]
+}
