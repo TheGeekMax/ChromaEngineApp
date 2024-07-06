@@ -1,0 +1,5 @@
+/Users/maximesanciaume/git/unity/ChromaEngineApp/.utmp/RelWithDebInfo/5mx3q2z3/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/maximesanciaume/git/unity/ChromaEngineApp/.utmp/RelWithDebInfo/5mx3q2z3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/maximesanciaume/git/unity/ChromaEngineApp/.utmp/RelWithDebInfo/5mx3q2z3/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/maximesanciaume/git/unity/ChromaEngineApp/.utmp/RelWithDebInfo/5mx3q2z3/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/maximesanciaume/git/unity/ChromaEngineApp/.utmp/RelWithDebInfo/5mx3q2z3/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

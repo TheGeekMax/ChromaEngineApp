@@ -79,6 +79,8 @@ public class Keep : MonoBehaviour
 
     void Awake(){
         if(instance == null){
+            Application.targetFrameRate = 120;
+            QualitySettings.vSyncCount = 0;
             currentCity = "";
             //s'execute que la première fois
             instance = this;
