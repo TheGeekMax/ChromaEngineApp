@@ -1,0 +1,5 @@
+# ninja log v5
+106	206	1711295797968020587	/Users/maximesanciaume/git/unity/ChromaEngineApp/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5mx3q2z3/obj/arm64-v8a/libswappywrapper.so	a21cc09f6bd216eb
+0	106	1711295797889142893	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	902297df3792f8cb
+1	507	1719901639527050617	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	902297df3792f8cb
+507	703	1719901639703934885	/Users/maximesanciaume/git/unity/ChromaEngineApp/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5mx3q2z3/obj/arm64-v8a/libswappywrapper.so	a21cc09f6bd216eb

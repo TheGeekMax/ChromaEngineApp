@@ -91,6 +91,10 @@ public class TouchManager : MonoBehaviour
                 beginTouchPositionFloat = touchPos;
                 type = 0;
                 choosenBloc = GetComponent<GridManager>().GetBlocObject((int)intTouchPos.x,(int)intTouchPos.y);
+                if(choosenBloc != null){
+                    choosenBloc.GetComponent<SpriteRenderer>().sortingOrder += 100;
+                }
+                
                 dontMove = true;
                 if(GetComponent<BorderManager>().IsBlocInBorder(intTouchPos) || GetComponent<SandboxManager>().sandboxMode){
                     dontMove = false;
@@ -117,7 +121,9 @@ public class TouchManager : MonoBehaviour
                     deleted = false;
                     return;
                 }
-
+                if(choosenBloc != null){
+                    choosenBloc.GetComponent<SpriteRenderer>().sortingOrder -= 100;
+                }
                 
                 //cas du release
                 int clampedX  = (int)Mathf.Clamp(intTouchPos.x,0,gridWidth-1);
@@ -131,6 +137,7 @@ public class TouchManager : MonoBehaviour
                     }
                 }else if(!dontMove){
                     AudioManager.instance.Play(2);
+                    
                     if(GetComponent<GridManager>().GetBlocObject(clampedX,clampedY) == null && (GetComponent<BorderManager>().IsBlocInBorder(new Vector2(clampedX,clampedY)) || GetComponent<SandboxManager>().sandboxMode)){
                         GetComponent<GridManager>().SetBlocId(clampedX, clampedY,choosenBloc);
                         choosenBloc.transform.position = new Vector3(Mathf.Ceil(Mathf.Clamp(touchPos.x,-gridWidth/2+1,gridWidth/2))-1, Mathf.Ceil(Mathf.Clamp(touchPos.y,-gridWidth/2+1,gridWidth/2)), 0);
